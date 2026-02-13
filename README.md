@@ -9,3 +9,11 @@ https://www.yuque.com/yuqueyonghuzmzved/gsf09l
 目前正在学习python的基本语法，锻炼用python coding，所得记录在MyPythonTry中
 
 将来如果开放这个仓库的话，希望初学者能从中得到一些学习路径的启发，大佬可以鼓励鼓励点个starQWQ~
+
+
+## learn to use git
+git add xxx.xx
+
+**git status** to know which file in the area to be commited
+
+**git push** to commit all files in the area
